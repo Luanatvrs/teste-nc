@@ -101,10 +101,11 @@ yarn dev
 Frontend disponível em:
 http://localhost:5173
 
-## Estrutura do Projeto (exemplo)
+## Estrutura do Projeto 
 
 ├── backend (Laravel)
 │   ├── app
+│   │   └── Services
 │   ├── routes
 │   ├── database
 │   └── ...
@@ -113,6 +114,7 @@ http://localhost:5173
 │   ├── components
 │   └── ...
 └── README.md
+
 
 ## Endpoints da API
 
