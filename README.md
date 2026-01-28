@@ -41,7 +41,7 @@ composer -V
 
 Clone o repositório:
 
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Luanatvrs/teste-nc.git)
+git clone [https://github.com/Luanatvrs/teste-nc.git](https://github.com/Luanatvrs/teste-nc.git)
 cd teste-nc/backend
 
 Instale as dependências:
