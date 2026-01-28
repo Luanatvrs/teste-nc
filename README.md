@@ -103,25 +103,27 @@ http://localhost:5173
 
 ## Estrutura do Projeto 
 
-├── backend (Laravel)
-│   ├── app
-│   │   └── Services
-│   ├── routes
-│   ├── database
-│   └── ...
-├── frontend (Vue)
-│   ├── src
-│   ├── components
-│   └── ...
-└── README.md
+Estrutura do Projeto
+
+backend/ (Laravel)
+- app
+- routes
+- database
+
+frontend (Vue)
+- src
+- components
+
+README.md
+
 
 
 ## Endpoints da API
 
-GET    /api/comentarios
-POST   /api/comentarios
-PUT    /api/comentarios/{id}
-DELETE /api/comentarios/{id}
+- GET    /api/comentarios
+- POST   /api/comentarios
+- PUT    /api/comentarios/{id}
+- DELETE /api/comentarios/{id}
 
 ## Exemplo de Requisição
 
@@ -130,6 +132,3 @@ DELETE /api/comentarios/{id}
   "message": "Ótimo conteúdo!"
 }
 
-## Licença
-
-MIT
